@@ -1,3 +1,9 @@
+Material da oficina de es6
+
+Instrutor: Diego de Sena Bastos.
+
+Orientações
+
 instalar @babel/cli - yarn add @babel/cli
     para poder executar comandos de consoleds
 instalar @babel/ṕreset-env
